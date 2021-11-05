@@ -1,3 +1,3 @@
 # Barbershop-adaptive
 
-mentor: Magomedov Shahban
+mentor: Magomedov Shakhban
