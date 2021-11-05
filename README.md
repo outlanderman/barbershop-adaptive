@@ -1,3 +1,3 @@
 # Barbershop-adaptive
 
-mentor: Magomedov Shakhban
+mentor: Magomedov Shakhban https://github.com/shakhban777
