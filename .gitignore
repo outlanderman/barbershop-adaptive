@@ -2,3 +2,4 @@ node_modules/
 *.log
 *.psd
 css/*.css
+scss/*.scss
