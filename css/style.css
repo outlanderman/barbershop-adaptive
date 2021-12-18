@@ -653,6 +653,19 @@ img {
     width: auto;
     padding: 0;
   }
+  .stats__value {
+    margin-bottom: 7px;
+    font-size: 72px;
+    line-height: 72px;
+  }
+  .stats__field {
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+  }
+  .stats__field br {
+    display: none;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -668,9 +681,28 @@ img {
     float: left;
     width: 240px;
     min-height: 263px;
-    /*Временно для сетки*/
     padding-left: 40px;
     padding-right: 40px;
+  }
+  .stats__header::before {
+    top: 22px;
+  }
+  .stats__slogan {
+    float: none;
+    width: auto;
+    margin-bottom: 42px;
+    padding-left: 0;
+  }
+  .stats__intro {
+    float: none;
+    width: auto;
+    margin-bottom: 32px;
+    padding: 0;
+  }
+  .stats__legend--top {
+    float: none;
+    width: auto;
+    padding-left: 0;
   }
   .stats__items {
     float: right;
